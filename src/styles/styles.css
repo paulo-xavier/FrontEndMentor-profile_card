@@ -7,7 +7,6 @@ body {
     height: 100vh;
     overflow-x: hidden;
     overflow-y: hidden;
-
 }
 
 .card-container{
@@ -20,9 +19,7 @@ body {
     z-index: 3;
 }
 
-
 header{
-    /* background: red; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -47,7 +44,6 @@ header .image-profile{
 }
 
 main{
-    /* background: green; */
     width: 450px;
     display: flex;
     flex-direction: column;
@@ -57,7 +53,6 @@ main{
 }
 
 .personal-info{
-    /* background: red; */
     width: 200px;
     display: flex;
    justify-content: center;  
@@ -76,7 +71,6 @@ main{
 
 }
 
-
 h2, h3{
     font-family: 'Kumbh Sans', 'sans-serif' ;   
 }
@@ -89,7 +83,6 @@ h2, h3{
 }
 
 footer{
-    /* background-color: red; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -104,7 +97,6 @@ h2{
 }
 
 .info-card{
-    /* background-color: green; */
     text-align: center;
     margin-top: 9px;
 
@@ -117,8 +109,6 @@ h3{
     font-weight: 400;
     margin-top: -7px;
 }
-
-
 
 .bg-top {
     position: relative;
