@@ -28,8 +28,9 @@ photos. The challenge is to develop an application similar to the given example.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Front-end Mentor](https://your-solution-url.com)
+- Live Site URL: [Website](https://paulo-xavier.github.io/FrontEndMentor-profile_card/)
+- GitHub repository: [GitHub](https://github.com/paulo-xavier/FrontEndMentor-profile_card)
 
 ## My process
 
